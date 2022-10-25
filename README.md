@@ -1,3 +1,3 @@
-# AIrepo
-Repository for AI training GMC
-## Welcome to the AI repo !!
+# ML_repo
+Repository of ML projects during the training at GMC center
+## Enjoy !!
